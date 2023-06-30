@@ -18,3 +18,11 @@ a:visited{
 a:hover, a:active{
     color: #bebdbd;
 }
+
+.product p {
+    visibility: hidden;
+    font-size: 18px;
+  }
+  .product:hover > p {
+    visibility: visible;
+  }
