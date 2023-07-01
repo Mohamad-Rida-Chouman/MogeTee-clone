@@ -34,7 +34,7 @@ li.no-bullets {
     margin: 0; /* Remove margins */
 }
 
-tr, th {
+tr, th, td {
     border: 1px solid #bebdbd;
     border-radius: 10px;
 }
